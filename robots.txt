@@ -1,0 +1,5 @@
+# Every study hub here is meant to be link only: shared with classmates by URL,
+# not found through a search. This asks crawlers to stay out of all of them.
+# It does not restrict anyone who has the link.
+User-agent: *
+Disallow: /
